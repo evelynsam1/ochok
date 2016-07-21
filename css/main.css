@@ -1,0 +1,25 @@
+/* Inserta tu CSS aqui */
+div{
+	width: 150px;
+	height: 150px;
+	background-color: #808080;
+	border: black solid 1px;
+	margin:5px;
+}
+.rectangulo{
+	text-align: center;
+	width: 500px;
+	height: 170px;
+	background-color: #808080;
+	border: black solid 1px;
+	margin:5px;
+}
+.recto{
+	
+	display: inline-block;
+}
+.cuaduno{
+        display: inline-block;
+        bottom: 150px;
+        left: 150px;
+}
